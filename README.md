@@ -9,4 +9,6 @@
 7. git commit --amend -----> servirá para editar el último commit hecho
 #no es recomendable trabajar en la rama principal principalmente en el trabajo colaborativo
 8. git checkout -b rama-heroes --> Crea una rama secundaria, usual para no trabajar en la rama principal
-9. git checkout master 
+9. git checkout master --> oculta la rama secundaria
+10. git merge rama-secundaria --> trae de vuelta la rama ocultada
+11. git branch -d rama-secundaria --> borrará la rama creada (especificada despues de -d)

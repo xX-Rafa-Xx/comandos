@@ -13,3 +13,4 @@
 10. git merge rama-secundaria --> trae de vuelta la rama ocultada
 11. git branch -d rama-secundaria --> borrará la rama creada (especificada despues de -d)
 12. git push --> sirve para mandar los cambios
+13. git commit -am --> sirve para hacer el add . y el commit en un solo comando

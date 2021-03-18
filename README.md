@@ -12,10 +12,9 @@
 10. git merge rama-secundaria --> fusionará la rama secundaria con la rama master
 11. git branch -d rama-secundaria --> borrará la rama creada (especificada despues de -d debes especificar el nombre de la rama)
 12. git commit -am "mensaje de tu comit" --> sirve para hacer el add . y el commit en un solo comando con el nombre de tu commit
-13. git merge rama-x  --> sirve para fusionar los cambios de la rama-x con la rama principal
-14. :wq! --> Presiona ESC y escribe w para escribir, q para salir y ! signo de exclamación para que lo haga inmediatamente
-15. git remote add origin htttps://github.com/repositorio.git --> agregará tu proyecto a liga del repositorio remoto que hayas especificado (lo mandarás a la web)
-16. git branch -M main --> Renombrará la rama master a main
-17. git push --> sirve para mandar los cambios (subir los cambios al repositorio en la red)
-18. git pull --> sirve para descargar los cambios en el repositorio (cuando sea trabajo colaborativo y otro programador agregué código al proyecto)
-19. git remote remove origin --> eliminará el repositorio remoto que hayas agregado
+13. :wq! --> Presiona ESC y escribe w para escribir, q para salir y ! signo de exclamación para que lo haga inmediatamente
+14. git remote add origin htttps://github.com/repositorio.git --> agregará tu proyecto a liga del repositorio remoto que hayas especificado (lo mandarás a la web)
+15. git branch -M main --> Renombrará la rama master a main
+16. git push --> sirve para mandar los cambios (subir los cambios al repositorio en la red)
+17. git pull --> sirve para descargar los cambios en el repositorio (cuando sea trabajo colaborativo y otro programador agregué código al proyecto)
+18. git remote remove origin --> eliminará el repositorio remoto que hayas agregado
